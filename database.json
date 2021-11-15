@@ -1,0 +1,92 @@
+{
+    "apartments": [
+        {
+            "id": "1",
+            "type": "flat",
+            "owner": {
+                "fullname": "Jonas Jonaitis",
+                "email": "jonas@jonaitis.com",
+                "phone": "860804153"
+            },
+            "roomCount": 1,
+            "squares": 35,
+            "address": {
+                "city": "Vilnius",
+                "country": "Lietuva",
+                "street": "Grybo",
+                "number": "1"
+            },
+            "price": {
+                "amount": 40000,
+                "currency": "€"
+            },
+            "imgSrc": "https://www.enuoma.lt/wp-content/uploads/2020/03/20200315_164956.jpg"
+        },
+        {
+            "id": "2",
+            "type": "house",
+            "owner": {
+                "fullname": "Jonas Jonaitis",
+                "email": "jonas@jonaitis.com",
+                "phone": "860804153"
+            },
+            "roomCount": 4,
+            "squares": 120,
+            "address": {
+                "city": "Vilnius",
+                "country": "Lietuva",
+                "street": "Miežių",
+                "number": "1"
+            },
+            "price": {
+                "amount": 300000,
+                "currency": "€"
+            },
+            "imgSrc": "https://www.kampas.lt/storage/images/2021/09/14/29703502_600x450.jpg"
+        },
+        {
+            "id": "3",
+            "type": "cottage",
+            "owner": {
+                "fullname": "Jonas Jonaitis",
+                "email": "jonas@jonaitis.com",
+                "phone": "860804153"
+            },
+            "roomCount": 3,
+            "squares": 75,
+            "address": {
+                "city": "Vilnius",
+                "country": "Lietuva",
+                "street": "Braškių",
+                "number": "7"
+            },
+            "price": {
+                "amount": 150000,
+                "currency": "$"
+            },
+            "imgSrc": "https://i.kampas.lt/images/2021/09/07/29670341.jpg"
+        },
+        {
+            "id": "4",
+            "type": "house",
+            "owner": {
+                "fullname": "Jonas Jonaitis",
+                "email": "jonas@jonaitis.com",
+                "phone": "860804153"
+            },
+            "roomCount": 6,
+            "squares": 200,
+            "address": {
+                "city": "Vilnius",
+                "country": "Lietuva",
+                "street": "Antakalnio",
+                "number": "3"
+            },
+            "price": {
+                "amount": 600000,
+                "currency": "€"
+            },
+            "imgSrc": "https://s3.eu-central-1.amazonaws.com/rinka-lt/public/media/23772168/conversions/gallery_preview.jpg"
+        }
+    ]
+}
