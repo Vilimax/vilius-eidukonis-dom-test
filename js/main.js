@@ -2,4 +2,4 @@ const rootElement = document.querySelector('#root');
 
 const apartmentGridComponent = new ApartmentGridComponent();
 
-rootElement.appendChild( apartmentGridComponent.htmlElement);
+rootElement.appendChild(apartmentGridComponent.htmlElement);
